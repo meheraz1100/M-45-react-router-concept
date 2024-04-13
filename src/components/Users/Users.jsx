@@ -15,7 +15,7 @@ const Users = () => {
     // state --> loader
     // useEffect
     // fetch --> state set --> set state
-    console.log(users)
+    // console.log(users)
     return (
         <div>
             <h2>Our users: {users.length}</h2>
